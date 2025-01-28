@@ -4,23 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="104739ac-0ea3-4d0e-b7ae-9a213c22fad9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Bike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Companies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Drivers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Plane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Plate_number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Truck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+    <list default="true" id="104739ac-0ea3-4d0e-b7ae-9a213c22fad9" name="Changes" comment="spring data">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -58,15 +48,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/xxxxx/Desktop/Java - Spring data/git",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/xxxxx/Desktop/Java - Spring data/git&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\xxxxx\Desktop\Java - Spring data\LECTURE 6\JPA_Code_First_09\src\main\resources" />
@@ -95,6 +85,14 @@
       <option name="presentableId" value="Default" />
       <updated>1736948601433</updated>
     </task>
+    <task id="LOCAL-00001" summary="spring data">
+      <created>1737764028263</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737764028263</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,5 +115,9 @@
         <entry key="92cfa9df-a7f2-480a-9850-840053c00ac0" value="TOOL_WINDOW" />
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="spring data" />
+    <option name="LAST_COMMIT_MESSAGE" value="spring data" />
   </component>
 </project>
